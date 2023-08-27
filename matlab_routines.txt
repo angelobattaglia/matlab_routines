@@ -1,0 +1,1 @@
+These are some numerical routines for MATLAB®, it contains hints on how to plot, how to use certain numerical methods with examples tied with commentary. Plot functions in 3D, approximate solutions of nonlinear equations, learn how to build matrices, use them for linear systems and evaluate integrals.
