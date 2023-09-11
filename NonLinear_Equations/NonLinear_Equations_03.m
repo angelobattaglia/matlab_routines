@@ -22,7 +22,7 @@ tol = 1.0e-10;
 % n is the number of iteration
 % ier is a flag that checks if the tollerance was met
 
-[x, n, ier] = Tangent_Method(f, f_d, x0, nmax, tol);
+[x, n, ier] = Tangent_Method(f, x0, nmax,  tol);
 
 % Comparing the two values
 
