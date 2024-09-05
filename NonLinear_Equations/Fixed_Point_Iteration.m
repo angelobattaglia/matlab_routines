@@ -8,4 +8,3 @@ ier = 0;
         end
     x0 = x;
     end
-    

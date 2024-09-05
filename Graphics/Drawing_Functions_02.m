@@ -22,4 +22,3 @@ figure(6);
 plot3(xt,yt,zt);
 figure(7);
 plot3(xt,yt1,zt);
-

@@ -1,4 +1,5 @@
 %% Application of the Tangent method (Root Finding)
+
 format long
 
 % The correct value
