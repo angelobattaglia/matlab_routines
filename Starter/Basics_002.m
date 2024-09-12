@@ -21,7 +21,6 @@ I = speye(n);
 % S = sparse(i,j,v) generates a sparse matrix S from the triplets i, j, and v such that S(i(k),j(k)) = v(k). The max(i)-by-max(j) output matrix has space allotted for length(v) nonzero elements.
 I = sparse(1:n,1:n,ones(n,1))
 
-
 % Extract nonzero diagonals and create sparse band and diagonal
 % spdiags https://www.mathworks.com/help/matlab/ref/spdiags.html
 I = spdiags(ones(n,1),0,n,n)

@@ -9,5 +9,3 @@ a = -1;
 b = 1;
 
 res = integral(f, a, b)
-
-
